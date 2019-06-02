@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, LayOutActivity!</string>
+    <string name="app_name">实验四 用户界面设计</string>
+    <string name="name">用户名</string>
+    <string name="password">密码</string>
+    <string name="sextext">请选择性别</string>
+    <string name="man">男</string>
+    <string name="woman">女</string>
+    <string name="city">请选择城市</string>
+    <string name="countrychoose">请选择国家</string>
+    <string name="citychoose">请选择城市</string>
+	<string name="regionchoose">请选择地区</string>
+	<string name="like">喜好</string>
+	<string name="pingpang">乒乓球</string>
+	<string name="football">足球</string>
+	<string name="basketball">篮球</string>
+	<string name="boxtennis">网球</string>
+	<string name="ok">确定</string>
+	<string name="cancle">取消</string>
+	<string name="action_settings">AAA</string>
+	    <string-array name="dept">
+        <item>人力资源部</item>
+        <item>销售部</item>
+        <item>财务部</item>
+        <item>开发部</item>
+	</string-array>
+</resources>
